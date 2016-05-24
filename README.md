@@ -5,4 +5,4 @@ To run these scripts, you'll need to install Python (obviously) and [Mutagen](ht
 
 By default, Chemical Agent will automatically insert artist, track-title, album-title, year, genre and copyright metadata/tags from a data file. For instructions on changing these, please see the wiki.
 
-Special thanks to @AndrewJDR for all of his help.
+Special thanks to [AndrewJDR](https://github.com/AndrewJDR) for all of his help.
