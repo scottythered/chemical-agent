@@ -1,7 +1,7 @@
 ﻿import csv
 from mutagen.flac import FLAC # calls the necessary mutagen library ID3 tags
 
-csvfile = open('test3.csv') # opens your file, change to suit whatever yours is named
+csvfile = open('test3.csv') # opens your CSV file, change to whatever yours is named
 
 reader = csv.reader(csvfile)
     
