@@ -1,7 +1,7 @@
 import csv
 from mutagen.id3 import ID3, TRCK, TIT2, TALB, TPE1, TCOP, TYER, TCON # calls the necessary mutagen library ID3 tags
 
-csvfile = open('test2.csv') # opens your file, change to suit whatever yours is named
+csvfile = open('test2.csv') # opens your CSV file, change to whatever yours is named
 
 reader = csv.reader(csvfile)
     
