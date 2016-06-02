@@ -1,5 +1,5 @@
 # chemical-agent
-Chemical Agent is a set of (VERY simple) Mutagen-based Python scripts to facilitate bulk audio metadata/tag changes from CSV and TSV files without a GUI program.
+Chemical Agent is a set of (VERY simple) Mutagen-based Python scripts to facilitate bulk audio metadata/tag changes from CSV and TSV files without a GUI program. By design, Chemical Agent is geared toward people with little comfort in writing and executing scripts, as well as people who want a small project to get their hands dirty with scripting and data cleaning. 
 
 To run these scripts, you'll need to install Python (obviously) and [Mutagen](http://mutagen.readthedocs.io/), which you can install from the command line or download from [Git](https://github.com/quodlibet/mutagen).
 
