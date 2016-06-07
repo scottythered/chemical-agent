@@ -3,6 +3,8 @@ Chemical Agent is a set of (VERY simple) Mutagen-based Python scripts to facilit
 
 To run these scripts, you'll need to install Python (obviously) and [Mutagen](http://mutagen.readthedocs.io/), which you can install from the command line or download from [Git](https://github.com/quodlibet/mutagen).
 
+As always: [read the wiki, read the wiki, read the wiki, read the wiki](https://github.com/scottythered/chemical-agent/wiki).
+
 Special thanks to [AndrewJDR](https://github.com/AndrewJDR) for all of his help.
 
 ### License
